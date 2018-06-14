@@ -1,6 +1,6 @@
 {
   "name": "zopflipng-chrissimpkins-bin",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "`zopflipng` wrapper that makes it seamlessly available as a local dependency (uses chrissimpkins' fork)",
   "license": "MIT",
   "repository": "github:helb/zopflipng-chrissimpkins-bin",
